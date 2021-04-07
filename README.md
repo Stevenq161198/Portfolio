@@ -1,4 +1,6 @@
-Proyecto 1 de Introduccion al Desarrollo de Paginas Web
+Proyecto 1
+
+Introduccion al Desarrollo de Paginas Web
 
 Estudiante: Steven Quesada Jimenez
 
